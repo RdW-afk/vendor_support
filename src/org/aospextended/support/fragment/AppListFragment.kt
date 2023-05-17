@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.banana.support.fragment
+package org.aospextended.support.fragment
 
 import android.content.Context
 import android.content.pm.PackageInfo
@@ -41,7 +41,7 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 
 import com.google.android.material.appbar.AppBarLayout
-import com.banana.support.R
+import org.aospextended.support.R;
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.cancel
